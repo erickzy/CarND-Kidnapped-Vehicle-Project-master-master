@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CarND_Kidnapped_Vehicle_Project_master"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CarND_Kidnapped_Vehicle_Project_master">
+				<Option output="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/CarND_Kidnapped_Vehicle_Project_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 CarND_Kidnapped_Vehicle_Project_master"/>
+					<CompileFile command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CarND_Kidnapped_Vehicle_Project_master/fast">
+				<Option output="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/CarND_Kidnapped_Vehicle_Project_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 CarND_Kidnapped_Vehicle_Project_master/fast"/>
+					<CompileFile command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/Cellar/make/4.2.1_1/bin/gmake -j4 -f &quot;/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/CMakeLists.txt">
+			<Option target="CarND_Kidnapped_Vehicle_Project_master"/>
+		</Unit>
+		<Unit filename="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/cmakepatch.txt">
+			<Option target="CarND_Kidnapped_Vehicle_Project_master"/>
+		</Unit>
+		<Unit filename="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/install-mac.sh">
+			<Option target="CarND_Kidnapped_Vehicle_Project_master"/>
+		</Unit>
+		<Unit filename="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/src/helper_functions.h">
+			<Option target="CarND_Kidnapped_Vehicle_Project_master"/>
+		</Unit>
+		<Unit filename="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/src/json.hpp">
+			<Option target="CarND_Kidnapped_Vehicle_Project_master"/>
+		</Unit>
+		<Unit filename="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/src/main.cpp">
+			<Option target="CarND_Kidnapped_Vehicle_Project_master"/>
+		</Unit>
+		<Unit filename="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/src/map.h">
+			<Option target="CarND_Kidnapped_Vehicle_Project_master"/>
+		</Unit>
+		<Unit filename="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/src/particle_filter.cpp">
+			<Option target="CarND_Kidnapped_Vehicle_Project_master"/>
+		</Unit>
+		<Unit filename="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/src/particle_filter.h">
+			<Option target="CarND_Kidnapped_Vehicle_Project_master"/>
+		</Unit>
+		<Unit filename="/Users/macbook/Documents/Udacity/Term2/CarND-Kidnapped-Vehicle-Project-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
